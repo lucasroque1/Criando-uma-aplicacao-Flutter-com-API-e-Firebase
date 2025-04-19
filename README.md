@@ -18,3 +18,50 @@ Aplicativo mobile desenvolvido em Flutter com autenticação via Firebase Auth e
 
 •Interface personalizada com animações, cores temáticas e fontes Google Fonts
 
+## Como Executar:
+
+1) Clone o repositório
+
+git clone https://github.com/seu-usuario/pokedex-flutter.git
+
+cd pokedex-flutter
+
+2) Instale as dependências:
+
+flutter pub get
+
+3) Configure o Firebase:
+
+•Acesse https://console.firebase.google.com
+
+•Crie um novo projeto
+
+•Registre o app (Android/iOS/Web)
+
+•Baixe o arquivo google-services.json (Android) ou firebase_options.dart (Web)
+
+•Coloque no diretório correto (como descrito no PDF)
+
+•Habilite o método de autenticação por Email/Senha
+
+4) Execute o projeto:
+
+flutter run
+Ou selecione Web ou Dispositivo no FlutLab.io e clique em Run.
+
+🧰 Tecnologias Utilizadas
+Flutter
+
+Dart
+
+Firebase Auth
+
+Firebase Core
+
+Google Fonts
+
+PokéAPI (https://pokeapi.co)
+
+HTTP Package
+
+SnackBars para feedback
