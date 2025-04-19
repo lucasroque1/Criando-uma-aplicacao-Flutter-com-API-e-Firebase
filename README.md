@@ -157,5 +157,18 @@ Criar uma função para fazer fetch da API:
 
 Resultado:
 
+![Image](https://github.com/user-attachments/assets/59d0e88c-f5e5-4cd5-af7c-62ce0a4c1854)
 
+![Image](https://github.com/user-attachments/assets/b2bf92eb-fcb0-43c7-811b-d7b11d0699d0)
 
+![Image](https://github.com/user-attachments/assets/93add576-7c1a-405f-aa6c-3fa0d747cc5e)
+
+![Image](https://github.com/user-attachments/assets/0eeaae15-43a2-45bc-a6f0-df464055bf56)
+
+![Image](https://github.com/user-attachments/assets/c1d1c87b-aac6-460a-a6f8-ff1e3695aaa2)
+
+![Image](https://github.com/user-attachments/assets/742b8012-c34c-4870-b73c-f0e81a3e6865)
+
+ Link para testar a versão web:
+
+ https://preview.flutlab.io/lucas_roque2/pokedex/
