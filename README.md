@@ -65,3 +65,8 @@ flutter run(Ou selecione Web ou Dispositivo no FlutLab.io e clique em Run)
 •HTTP Package
 
 •SnackBars para feedback
+
+## Como foi feito a atividade
+
+Resultado:
+
