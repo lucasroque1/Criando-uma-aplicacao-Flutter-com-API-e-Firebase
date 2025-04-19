@@ -44,24 +44,24 @@ flutter pub get
 
 •Habilite o método de autenticação por Email/Senha
 
-4) Execute o projeto:
+Execute o projeto:
 
-flutter run
-Ou selecione Web ou Dispositivo no FlutLab.io e clique em Run.
+flutter run(Ou selecione Web ou Dispositivo no FlutLab.io e clique em Run)
 
-🧰 Tecnologias Utilizadas
-Flutter
+## Tecnologias Utilizadas
 
-Dart
+•Flutter
 
-Firebase Auth
+•Dart
 
-Firebase Core
+•Firebase Auth
 
-Google Fonts
+•Firebase Core
 
-PokéAPI (https://pokeapi.co)
+•Google Fonts
 
-HTTP Package
+•PokéAPI (https://pokeapi.co)
 
-SnackBars para feedback
+•HTTP Package
+
+•SnackBars para feedback
