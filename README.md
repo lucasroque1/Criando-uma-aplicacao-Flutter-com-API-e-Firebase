@@ -136,24 +136,26 @@ Criar uma função para fazer fetch da API:
 •Altura / peso
 
 5️) Lista de Pokémons
-Utilizar ListView.builder para renderizar uma lista com vários Pokémons.
 
-Criar rota dinâmica (por exemplo: /pokemon/pikachu) para abrir detalhes do Pokémon clicado.
+•Utilizar ListView.builder para renderizar uma lista com vários Pokémons.
 
-6️⃣ Rotas e Navegação
-Usar Navigator.push para navegar entre:
+•Criar rota dinâmica (por exemplo: /pokemon/pikachu) para abrir detalhes do Pokémon clicado.
 
-Login → Home
+6️) Rotas e Navegação
 
-Home → Detalhes do Pokémon
+•Usar Navigator.push para navegar entre:
 
-7️⃣ Logout
-Adicionar botão de logout no AppBar com:
+•Login → Home
 
-dart
-Copiar
-Editar
-FirebaseAuth.instance.signOut();
+•Home → Detalhes do Pokémon
+
+7️) Logout
+
+•Adicionar botão de logout no AppBar com:
+
+    FirebaseAuth.instance.signOut();
 
 Resultado:
+
+
 
