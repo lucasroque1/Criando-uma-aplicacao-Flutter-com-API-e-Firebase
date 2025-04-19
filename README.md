@@ -96,44 +96,46 @@ Exemplo de dependências no pubspec.yaml
                 firebase_core: ^2.0.0
                 firebase_auth: ^4.0.0
                 
-• Rodar: flutter pub get
+• Rodar:
+        
+    flutter pub get
 
-3) Inicializar o Firebase no projeto:
+•Inicializar o Firebase no projeto:
 
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
-  runApp(MyApp());
-}
-3️⃣ Telas de Autenticação
-Criar duas páginas:
+        void main() async {
+          WidgetsFlutterBinding.ensureInitialized();
+          await Firebase.initializeApp();
+          runApp(MyApp());
+        }
+3️) Telas de Autenticação
 
-LoginPage: tela com formulário para email e senha.
+•Criar duas páginas:
 
-RegisterPage: para criar uma conta nova.
+•LoginPage: tela com formulário para email e senha.
 
-Implementar login e cadastro com métodos do firebase_auth.
+•RegisterPage: para criar uma conta nova.
 
-4️⃣ Consumo de API (PokéAPI)
+•Implementar login e cadastro com métodos do firebase_auth.
+
+4️)  Consumo de API (PokéAPI)
+
 Após o login, o usuário é redirecionado para a tela principal.
 
 Criar uma função para fazer fetch da API:
 
-dart
-Copiar
-Editar
-final response = await http.get(Uri.parse('https://pokeapi.co/api/v2/pokemon/pikachu'));
-Mostrar:
+    final response = await http.get(Uri.parse('https://pokeapi.co/api/v2/pokemon/pikachu'));
 
-Imagem do Pokémon
+•Mostrar:
 
-Nome
+•Imagem do Pokémon
 
-Tipo
+•Nome
 
-Altura / peso
+•Tipo
 
-5️⃣ Lista de Pokémons
+•Altura / peso
+
+5️) Lista de Pokémons
 Utilizar ListView.builder para renderizar uma lista com vários Pokémons.
 
 Criar rota dinâmica (por exemplo: /pokemon/pikachu) para abrir detalhes do Pokémon clicado.
