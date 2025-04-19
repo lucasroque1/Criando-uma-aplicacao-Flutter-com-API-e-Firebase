@@ -155,7 +155,7 @@ Criar uma função para fazer fetch da API:
 
     FirebaseAuth.instance.signOut();
 
-Resultado:
+## Resultados:
 
 ![Image](https://github.com/user-attachments/assets/59d0e88c-f5e5-4cd5-af7c-62ce0a4c1854)
 
@@ -169,6 +169,6 @@ Resultado:
 
 ![Image](https://github.com/user-attachments/assets/742b8012-c34c-4870-b73c-f0e81a3e6865)
 
- Link para testar a versão web:
+ ## Link para testar a versão web:
 
  https://preview.flutlab.io/lucas_roque2/pokedex/
