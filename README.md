@@ -44,7 +44,7 @@ flutter pub get
 
 •Habilite o método de autenticação por Email/Senha
 
-Execute o projeto:
+4) Execute o projeto:
 
 flutter run(Ou selecione Web ou Dispositivo no FlutLab.io e clique em Run)
 
